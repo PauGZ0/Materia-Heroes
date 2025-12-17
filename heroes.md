@@ -2,6 +2,6 @@
 
 * Superman
 * Batman
+* Spiderman
 * Spidercerdo
-* Aquaman
 * Mujer Maravilla
